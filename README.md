@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Andrés Morales</h1>
 <h3 align="center">A passionate frontend developer from Ecuador</h3>
 
-- 🔭 I’m currently working on [Pasionreal.com](paxionreal.es)
+- 🔭 I’m currently working on [paxionreal.es](paxionreal.es)
 
 - 🌱 I’m currently learning *Laravel, React-native*
 
