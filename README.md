@@ -1,10 +1,8 @@
-<div class="fat" style="display:flex; justify-content:center; flex-direction:row; ">
 
-  <div style="max-width:50px;" class="son1">
-      <img style="max-width:100px;" src="https://images.unsplash.com/photo-1595327656903-2f54e37ce09b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=435&q=80" />
-    </div
 
-  <div class="son2">
+      <img width="100px;" src="https://images.unsplash.com/photo-1595327656903-2f54e37ce09b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=435&q=80" />
+   
+
     <h1 align="right">Hi 👋, I'm Andrés Morales</h1>
 <h3 align="center">A passionate frontend developer from Ecuador</h3>
 
@@ -23,7 +21,5 @@
 - 📄 Know about my experiences [Experienced Developer in Laravel, Angular, React, Java, Nodejs, Mysql, Mongodb](Experienced Developer in Laravel, Angular, React, Java, Nodejs, Mysql, Mongodb)
 
 - ⚡ Fun fact *To learn*
-  </div>
-  
-</div>
+ 
 
