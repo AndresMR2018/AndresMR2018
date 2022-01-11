@@ -1,3 +1,4 @@
+<img src="https://image.freepik.com/free-vector/3d-earth-graphic-symbolizing-global-trade-illustration_456031-125.jpg" />
 <h1 align="center">Hi 👋, I'm Andrés Morales</h1>
 <h3 align="center">A passionate frontend developer from Ecuador</h3>
 
