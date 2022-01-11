@@ -1,4 +1,4 @@
-<div class="fat" style="display:flex; justify-content:center; flex-direction:row; flex-wrap: wrap;">
+<div class="fat" style="display:flex; justify-content:center; flex-direction:row; ">
 
   <div>
       <img src="https://images.unsplash.com/photo-1595327656903-2f54e37ce09b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=435&q=80" />
