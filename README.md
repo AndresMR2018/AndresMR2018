@@ -1,7 +1,7 @@
 <div class="fat" style="display:flex; justify-content:center; flex-direction:row; flex-wrap: wrap;">
 
   <div>
-      <img src="blob:https://liveespochedu-my.sharepoint.com/ef04a99a-483b-4089-9c53-647b43b28f37" />
+      <img src="https://ibb.co/pWJVYCK" />
     </div
 
   <div>
