@@ -1,7 +1,7 @@
 <div class="fat" style="display:flex; justify-content:center; flex-direction:row; flex-wrap: wrap;">
 
   <div>
-   <a href="https://ibb.co/pWJVYCK"><img src="https://i.ibb.co/vsZy02d/3-D-earth-graphic-symbolizing-global-trade-vector-illustration.jpg" alt="3-D-earth-graphic-symbolizing-global-trade-vector-illustration" border="0"></a><br /><a target='_blank' href='https://es.imgbb.com/'>gif to png</a><br />
+ <a border-color="blue" href="https://ibb.co/hBNzQBs"><img align="right" width="300px;" src="https://avatars.githubusercontent.com/u/41340529?s=400&u=42a8412e295973665ca7b5540a2a0fc4b49e1647&v=4" alt="Abstract-technology-header-background" border="0"></a>
     </div
 
   <div>
