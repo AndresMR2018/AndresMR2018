@@ -12,8 +12,6 @@
 
 - 🌱 I’m currently learning *Laravel, React-native*
 
-- 👯 I’m looking to collaborate on *Luis Coronel*
-
 - 👨‍💻 All of my projects are available at [AndresMR2018.github.com](AndresMR2018.github.com)
 
 - 💬 Ask me about *React, Mongodb, Angular, Laravel*
