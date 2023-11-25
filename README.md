@@ -14,7 +14,7 @@
 
 - 👨‍💻 All of my projects are available at [AndresMR2018.github.com](AndresMR2018.github.com)
 
-- 💬 Ask me about *React, Mongodb, Angular, Laravel*
+- 💬 Ask me about *Laravel, Symfony, React*
 
 - 📫 How to reach me *gamr21@outlook.es*
 
