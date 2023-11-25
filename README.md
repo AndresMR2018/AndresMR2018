@@ -8,9 +8,9 @@
     <h1 align="center">Hi 👋, I'm Andrés Morales</h1>
 <h3 align="center">A passionate frontend developer from Ecuador</h3>
 
-- 🔭 I’m currently working of freelancer
+- 🔭 I’m working in Link Digital
 
-- 🌱 I’m currently learning *Laravel, React-native*
+- 🌱 I’m currently learning *React-native*
 
 - 👨‍💻 All of my projects are available at [AndresMR2018.github.com](AndresMR2018.github.com)
 
